@@ -1,0 +1,23 @@
+# Core Dependencies
+pandas
+numpy
+matplotlib
+yfinance
+
+# Deep Learning
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# Time Series Models
+prophet
+statsmodels
+pmdarima
+
+# Technical Analysis (Optional but Recommended)
+TA-Lib
+
+# GUI
+pytz
+
+# Utilities
+scikit-learn
